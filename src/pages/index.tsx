@@ -1,7 +1,7 @@
 import React from "react";
 import logo from "../logo.png";
 //@ts-ignore
-import menu from "../mammos-menu.pdf";
+import menu from "../mamos-menu.pdf";
 
 export const Home = () => {
   return (
